@@ -10,4 +10,14 @@ The project began by reviewing the audit scope, objectives, and preliminary risk
    <li> Highlighted potential fines and operational risks stemming from identified security gaps.</li>
    <li> Highlighted potential fines and operational risks stemming from identified security gaps.</li>
    <li> Recommended practical mitigation strategies to enhance Botium Toys’ cybersecurity resilience and regulatory compliance.</li> <br>
-This audit simulated a real-world approach to cybersecurity risk management and regulatory readiness, demonstrating my ability to apply structured frameworks and critical thinking in evaluating and improving an organization’s cybersecurity posture
+This audit simulated a real-world approach to cybersecurity risk management and regulatory readiness, demonstrating my ability to apply structured frameworks and critical thinking in evaluating and improving an organization’s cybersecurity posture<br>
+
+<h2>Skills Demonstrated:</h2>
+<li>Internal IT auditing</li>
+<li>Risk assessment and analysis</li>
+<li>Compliance evaluation (GDPR, etc.)</li>
+<li>NIST CSF application</li>
+<li>Asset identification and classification</li>
+<li>Report writing and recommendation formulation</li>
+
+
