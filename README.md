@@ -20,7 +20,7 @@ This audit simulated a real-world approach to cybersecurity risk management and 
 <li>Asset identification and classification</li>
 <li>Report writing and recommendation formulation</li>
 <h2>Reports</h2>
-<a href="#"><li>Botium Toys: Scope, goals, and risk assessment report</li></a>
-<a href="#"><li>Controls and compliance checklist</li></a>
+<a href="Botium Toys_ Scope, goals, and risk assessment report.pdf"><li>Botium Toys: Scope, goals, and risk assessment report</li></a>
+<a href="#"><li>Controls and compliance checklist Report</li></a>
 
 
