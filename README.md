@@ -23,55 +23,63 @@ This audit simulated a real-world approach to cybersecurity risk management and 
 <a href="FilesFolder/Botium Toys_ Scope, goals, and risk assessment report.pdf"><li>Botium Toys: Scope, goals, and risk assessment report</li></a>
 <a href="FilesFolder/Controls and compliance checklist Report.pdf"><li>Controls and compliance checklist Report</li></a>
 
+# 📊 Portfolio Project Summary
 
-Portfolio Project Summary
+## Project Title  
+**Internal IT Audit for Botium Toys Using NIST Cybersecurity Framework (CSF)**  
 
-Project Title: Internal IT Audit for Botium Toys Using NIST Cybersecurity Framework (CSF)
+---
 
-Overview:
-I conducted an internal IT audit for Botium Toys, a U.S.-based toy company with growing online operations. The audit was designed to assess the organization’s overall security posture, compliance with regulations, and ability to protect critical assets. The focus was on aligning their security program with the NIST Cybersecurity Framework (CSF) while identifying risks, gaps, and necessary control implementations.
+## 🔎 Overview  
+I conducted an internal IT audit for **Botium Toys**, a U.S.-based toy company with growing online operations.  
+The audit assessed the organization’s **security posture, regulatory compliance, and protection of critical assets**,  
+aligned with the **NIST Cybersecurity Framework (CSF)**.  
 
-Scope & Goals:
+---
 
-Scope: Entire Botium Toys security program including employee devices, internal network, IT systems, warehouse/storefront assets, and legacy systems.
+## 🎯 Scope & Goals  
+**Scope:** Entire Botium Toys security program (devices, network, IT systems, warehouse/storefront, legacy systems).  
+**Goals:** Evaluate existing assets, review compliance (U.S. & E.U.), recommend controls to mitigate risks.  
 
-Goals: Evaluate existing assets, review compliance with U.S. and E.U. regulations, and recommend controls to mitigate risks.
+---
 
-Process & How I Did the Project:
+## 🛠️ Process & How I Did the Project  
+- **Reviewed Scope & Risk Report**: Examined IT manager’s scope, goals, and initial risk assessment (risk score: 8/10).  
+- **Asset Review**: Identified critical assets (on-prem devices, e-commerce, customer data, legacy systems).  
+- **Compliance & Checklist**: Mapped practices against NIST CSF (Identify, Protect, Detect, Respond, Recover).  
+- **Gap Analysis:**  
+  - No encryption for cardholder data (**PCI-DSS non-compliance**)  
+  - No backup/disaster recovery plan  
+  - Weak password policies; no centralized password management  
+  - Missing IDS/IPS monitoring  
 
-Reviewed Scope & Risk Report: Examined the IT manager’s scope, goals, and initial risk assessment (rated 8/10 risk score).
+---
 
-Asset Review: Identified critical assets including on-premise devices, e-commerce platforms, customer data, and legacy systems.
+## 🛡️ Control Recommendations  
+- **Administrative Controls:** Least privilege, account lifecycle policies, stronger password rules  
+- **Technical Controls:** IDS/IPS deployment, encryption (PII & payment data), centralized password management, backups  
+- **Physical Controls:** Locking cabinets for network gear, improved security signage  
 
-Compliance & Control Checklist: Mapped existing practices against NIST CSF categories (Identify, Protect, Detect, Respond, Recover).
+---
 
-Gap Analysis:
+## ✅ Outcome  
+Produced an **audit report** with prioritized remediation steps to reduce risk exposure and improve compliance  
+(PCI-DSS, GDPR). Helped reduce risk score from **8/10 to a safer level**.  
 
-Found lack of encryption for credit card data (PCI-DSS non-compliance).
+---
 
-Discovered no backup or disaster recovery plan.
+## 🧩 Key Skills Demonstrated  
+- Cybersecurity frameworks (**NIST CSF**)  
+- **Risk assessment & compliance analysis** (PCI-DSS, GDPR)  
+- Security controls evaluation (**administrative, technical, physical**)  
+- **Audit reporting & recommendations**  
 
-Weak password policies and no centralized password management.
+---
 
-Missing IDS/IPS for network monitoring.
+## ⚙️ Tools & Frameworks Used  
+- NIST Cybersecurity Framework (CSF)  
+- Compliance standards: PCI-DSS, GDPR  
+- Audit methodologies & control checklists  
 
-Control Recommendations:
-
-Administrative Controls: Implement least privilege, account lifecycle policies, and updated password complexity rules.
-
-Technical Controls: Deploy IDS/IPS, enforce encryption for payment/PII, implement centralized password management, and establish automated backups.
-
-Physical Controls: Enhance access restrictions with locking cabinets for network gear and improve security signage.
-
-Outcome: Delivered an internal audit report highlighting risks of non-compliance (PCI-DSS, GDPR) and suggested prioritized remediation steps to reduce the organization’s risk score from 8 to a more acceptable level.
-
-Key Skills Demonstrated:
-
-Cybersecurity frameworks (NIST CSF)
-
-Risk assessment & compliance analysis (PCI-DSS, GDPR)
-
-Security controls evaluation (administrative, technical, physical)
-
-Audit reporting & recommendations
+---
 
