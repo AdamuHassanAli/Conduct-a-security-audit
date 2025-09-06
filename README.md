@@ -1,3 +1,72 @@
+# Portfolio Project Summary
+
+## Project Title  
+**Internal IT Audit for Botium Toys Using NIST Cybersecurity Framework (CSF)**  
+
+---
+
+## Overview  
+I conducted an **internal IT audit** for Botium Toys, a U.S.-based toy company with growing online operations.  
+The audit was designed to assess the organization’s overall **security posture, compliance with regulations, and ability to protect critical assets**.  
+The focus was on aligning their security program with the **NIST Cybersecurity Framework (CSF)** while identifying risks, gaps, and necessary control implementations.  
+
+---
+
+## Scope & Goals  
+
+**Scope:**  
+Entire Botium Toys security program including employee devices, internal network, IT systems, warehouse/storefront assets, and legacy systems.  
+
+**Goals:**  
+- Evaluate existing assets  
+- Review compliance with U.S. and E.U. regulations  
+- Recommend controls to mitigate risks  
+
+---
+
+## Process & How I Did the Project  
+
+1. **Reviewed Scope & Risk Report**  
+   - Examined the IT manager’s scope, goals, and initial risk assessment (rated **8/10 risk score**).  
+
+2. **Asset Review**  
+   - Identified critical assets including on-premise devices, e-commerce platforms, customer data, and legacy systems.  
+
+3. **Compliance & Control Checklist**  
+   - Mapped existing practices against **NIST CSF categories (Identify, Protect, Detect, Respond, Recover)**.  
+
+4. **Gap Analysis**  
+   - Lack of encryption for credit card data (**PCI-DSS non-compliance**)  
+   - No backup or disaster recovery plan  
+   - Weak password policies and no centralized password management  
+   - Missing IDS/IPS for network monitoring  
+
+---
+
+## Control Recommendations  
+
+- **Administrative Controls:** Implement least privilege, account lifecycle policies, and updated password complexity rules.  
+- **Technical Controls:** Deploy IDS/IPS, enforce encryption for payment/PII, implement centralized password management, and establish automated backups.  
+- **Physical Controls:** Enhance access restrictions with locking cabinets for network gear and improve security signage.  
+
+---
+
+## Outcome  
+Delivered an **internal audit report** highlighting risks of non-compliance (**PCI-DSS, GDPR**) and suggested prioritized remediation steps to reduce the organization’s risk score from **8 to a more acceptable level**.  
+
+---
+
+## Key Skills Demonstrated  
+
+- Cybersecurity frameworks (**NIST CSF**)  
+- Risk assessment & compliance analysis (**PCI-DSS, GDPR**)  
+- Security controls evaluation (**administrative, technical, physical**)  
+- Audit reporting & recommendations  
+
+
+
+
+
 # Internal IT Audit and Risk Assessment for Botium Toys Using NIST Cybersecurity Framework
 <h2>Projects Descriptions</h2>
 <p>This project involved conducting an internal IT audit for a fictional small business, Botium Toys, which operates both a physical storefront and an expanding online presence. As the company scales its digital operations to serve a growing global customer base, particularly in the U.S. and E.U., the IT department needed to evaluate its cybersecurity posture to ensure regulatory compliance and protect critical business assets.
